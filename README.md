@@ -9,3 +9,4 @@ Mathematica Files:
 Compressed Files:
 1. CurrentStabilization: feedback circuit used to stabilize the current of bias coils (not used in the experiment)
 2. MNS_V3: magnetic lock circuit (the values of resistors and capacitors in the current setup may vary from the values in the file)
+3. Lattice_Intensity_Lock_ver2: optical intensity lock circuit for each lattice direction
